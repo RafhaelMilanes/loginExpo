@@ -3,6 +3,10 @@
 
 Este projeto é uma aplicação móvel construída com a plataforma Expo, que oferece uma experiência de login segura e eficiente para os usuários. O objetivo principal é permitir que os usuários acessem a aplicação com segurança, se cadastrem e possam redefinir suas senhas, além de navegar entre diferentes telas.
 
+<p align="center">
+  <img alt="License" src="./img/imgreadm.png">
+</p>
+
 ## 🖥️ Funcionalidades
 
 - Tela de Login
