@@ -7,7 +7,7 @@
     "plugins": [
       "expo-router"
     ],
-    "name": "maoverde",
-    "slug": "maoverde"
+    "name": "loginexpo",
+    "slug": "aula"
   }
 }
